@@ -1,0 +1,4 @@
+/**
+*Update webpack
+*/
+npm i webpack-dev-server --save-dev
